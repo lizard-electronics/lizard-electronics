@@ -1,4 +1,4 @@
-👋 Hi, welcome to my GitHub page.
+## 👋 Hi, welcome to my GitHub page.
 - My name is Manuel Lagarto and I’m an Electrical and Computer Engineering student based in Portugal.
 - I’m interested in PCB Desgin, MCU Programming, 3D Printing/Design, Industrial Automation, RC Cars...
 - Link for my Instagram page where I post the development of my projects:
